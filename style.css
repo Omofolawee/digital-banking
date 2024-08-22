@@ -89,7 +89,7 @@ body, html {
     background-color: rgb(245, 239, 239);
     padding: 40px 20px;
     width: 100%;
-    margin-top: 90px;
+    margin-top: 220px;
 }
 
 .second-heading {
@@ -172,7 +172,6 @@ body, html {
     gap: 30px;
     flex-direction: column;
 }
-
 @media screen and (max-width:960px){
     .nav-items{
         display: none;
